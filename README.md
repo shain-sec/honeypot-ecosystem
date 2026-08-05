@@ -132,25 +132,25 @@ During testing the project successfully demonstrated:
 
 ### Dashboard
 
-*(dashboard.png)*
+*assets/Honeypot_Dashborad.png*
 
 ---
 
 ### Live Attack Logs
 
-*(attack-logs.png)*
+*assets/live_attack.png*
 
 ---
 
 ### ML Attacker Profiling
 
-*(ml-dashboard.png)*
+*assets/ML_Profiling.png*
 
 ---
 
 ### Login Portal
 
-*(login-page.png)*
+*assets/Login_Page.png*
 
 ---
 
