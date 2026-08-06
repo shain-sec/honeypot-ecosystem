@@ -150,7 +150,7 @@ During testing the project successfully demonstrated:
 
 ### Login Portal
 
-*assets/Login_Page.png*
+*assets/Logins_Page.png*
 
 ---
 
