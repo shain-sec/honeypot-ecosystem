@@ -30,7 +30,7 @@ The platform combines:
 - Flask Web Honeypot
 - Cowrie SSH Honeypot
 - Random Forest ML Classifier
-- SQLite Database
+- SQLite Databases
 - Centralized Dashboard
 - Real-time Attack Analytics
 
@@ -43,7 +43,6 @@ The platform combines:
 - 🌐 Web application attack logging
 - 🤖 ML-based attacker profiling
 - 📊 Interactive security dashboard
-- 📈 Attack trend visualisation
 - 🗄️ Centralized SQLite database
 - 🐍 Python-based implementation
 
