@@ -50,8 +50,6 @@ The platform combines:
 
 # 🏗️ Architecture
 
-> *(Insert your architecture diagram here)*
-
 ```text
 Attacker
     │
